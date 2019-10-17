@@ -5,7 +5,7 @@
 }
 #background{
   /* background: linear-gradient(rgba(50,50,100,0.6),rgba(255,200,255,0.6)),url(https://bit.ly/2ON5tvg) no-repeat center center/cover;*/
-  background: url(https://bit.ly/35vUzji) no-repeat top right/cover;
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bit.ly/35vUzji) no-repeat top right/cover;
   background-attachment: fixed;
 
 }
@@ -42,6 +42,21 @@
   align-items: center;
   height: 100vh;
   width: 100%;
+}
+ .name a{
+  color:white;
+}
+.name a:hover{
+  color:aqua;
+}
+.kimani {
+  color:yellow;
+}
+h1 {
+  font-size:3em;
+}
+.drak {
+  font-size:3.5em;
 }
 h2 {
   color:black;
@@ -81,4 +96,8 @@ h2 {
 }
 .dark img{
   border-radius:20%;
+}
+.simon {
+  color:purple;
+  font-size:3em;
 }
