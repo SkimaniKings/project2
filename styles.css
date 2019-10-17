@@ -1,13 +1,13 @@
 * {
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-#background{
+#background {
   /* background: linear-gradient(rgba(50,50,100,0.6),rgba(255,200,255,0.6)),url(https://bit.ly/2ON5tvg) no-repeat center center/cover;*/
-  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://bit.ly/35vUzji) no-repeat top right/cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(https://bit.ly/35vUzji) no-repeat top right/cover;
   background-attachment: fixed;
-
 }
 .navbar {
   overflow: hidden;
@@ -23,7 +23,7 @@
   display: block;
   color: #f2f2f2;
   padding: 14px 16px;
-  text-decoration:none;
+  text-decoration: none;
   font-size: 1.5em;
 }
 
@@ -32,7 +32,7 @@
   color: black;
 }
 .navbar ul {
-  list-style-type:none;
+  list-style-type: none;
 }
 
 .name {
@@ -43,23 +43,23 @@
   height: 100vh;
   width: 100%;
 }
- .name a{
-  color:white;
+.name a {
+  color: limegreen;
 }
-.name a:hover{
-  color:aqua;
+.name a:hover {
+  color: aqua;
 }
 .kimani {
-  color:yellow;
+  color: yellow;
 }
 h1 {
-  font-size:3em;
+  font-size: 2em;
 }
 .drak {
-  font-size:3.5em;
+  font-size: 2.8em;
 }
 h2 {
-  color:black;
+  color: black;
   text-align: center;
   font-family: "Righteous", cursive;
   font-size: 3.5em;
@@ -73,31 +73,29 @@ h2 {
   background-color: lightslategray;
 }
 
-.first {
-  color:black;
+/*.first {
+  color: black;
   font-size: 2em;
-  border:blue solid 3px; 
-  margin-left:20%;
+  border: blue solid 3px;
+  margin-left: 20%;
   background-color: aqua;
-  margin-top:8%;
-
-}
+  margin-top: 8%;
+}*/
 
 .me .dark {
   flex: 50%;
-
 }
 
 .dark {
-  display: flex;  
-  margin:0 auto;
-  width:80%;
+  display: flex;
+  margin: 0 auto;
+  width: 80%;
   background-color: aqua;
 }
-.dark img{
-  border-radius:20%;
+.dark img {
+  border-radius: 20%;
 }
 .simon {
-  color:purple;
-  font-size:3em;
+  color: purple;
+  font-size: 3em;
 }
