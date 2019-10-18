@@ -129,6 +129,7 @@ figure {
   background-color: grey;
   display:flex;
   justify-content: space-between;
+  border-radius:8%;
 }
 figcaption {
   font-size:1.5em;
@@ -142,4 +143,7 @@ figcaption {
 .ttt {
   text-align: center;
   font-size:1.5em;
+  padding-top:30px;
+  padding-bottom:40px;
 }
+
