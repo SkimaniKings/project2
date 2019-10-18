@@ -25,6 +25,7 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 1.5em;
+  transition:10s;
 }
 
 .navbar a:hover {
@@ -54,6 +55,7 @@
 }
 h1 {
   font-size: 2em;
+  transition: 5s;
 }
 .drak {
   font-size: 2.8em;
@@ -119,4 +121,16 @@ footer {
 footer a:hover {
   background-color:black;
 
+}
+figure {
+  margin:0 auto;
+}
+.angelo {
+  background-color: grey;
+  display:flex;
+}
+figcaption {
+  font-size:1.5em;
+  width:50%;
+  padding-top:
 }
