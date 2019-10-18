@@ -1,10 +1,10 @@
 # Table of Contents
 
-* Project Title
-* Project Description
-* Deployment
-* 
-
+- Project Title
+- Project Description
+- Deployment
+- Project Screenshot
+- Technologies Used
 
 # MY PORTFOLIO
 
@@ -17,6 +17,17 @@
 
 - To visit the website click on the link (https://skimanikings.github.io/project2/).
 
-## Project screenshots 
-![](images/projects2.jpg) 
- 
+## Project screenshots
+
+<img src="./images/project2.jpg" width="400"/> 
+- A screenshot to homepage of this project.
+
+## Technologies Used
+
+- The creation of the website was based on the following technologies 
+    * HTML (Hyper Text Markup Language)
+    * CSS (Cascading Styling Sheet)
+
+## 
+
+
