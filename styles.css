@@ -64,7 +64,6 @@ em {
   font-size:1.6em;
   transition:10s;
 }
-
 h2 {
   color: black;
   text-align: center;
@@ -99,6 +98,7 @@ display: flex;
 justify-content: space-evenly;
 background-color:#ddd;
 padding:20px 0 0 20px;
+
 }
 .text > img {
   border-radius: 70%;
