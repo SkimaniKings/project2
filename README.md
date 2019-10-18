@@ -1,3 +1,4 @@
 # MY PORTFOLIO
 
-This is a portfolio website that tells more abou me and what i have been able to accomplish
+##Description
+This portfolio was made to showcase information about me, the projects that i have done and the skill set i possess.
