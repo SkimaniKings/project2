@@ -59,6 +59,13 @@ h1 {
 .drak {
   font-size: 2.8em;
 }
+em {
+  color:pink;
+  font-size:1.6em;
+  transition:10s;
+
+}
+
 h2 {
   color: black;
   text-align: center;
