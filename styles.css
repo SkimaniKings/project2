@@ -25,7 +25,6 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 1.5em;
-  transition:10s;
 }
 
 .navbar a:hover {
@@ -124,13 +123,14 @@ footer a:hover {
 }
 figure {
   margin:0 auto;
+  padding-top:30px;
 }
 .angelo {
   background-color: grey;
   display:flex;
+  justify-content: space-between;
 }
 figcaption {
   font-size:1.5em;
   width:50%;
-  padding-top:
 }
