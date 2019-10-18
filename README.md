@@ -15,6 +15,7 @@
 
 ## Deployment
 
-- To visit the website click [My portfolio] (https://skimanikings.github.io/project2/)git 
+- To visit the website click on the link (https://skimanikings.github.io/project2/).
 
-## 
+## Project screenshots 
+![project screenshot](images/projects.jpg) 
