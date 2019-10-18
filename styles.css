@@ -63,7 +63,6 @@ em {
   color:pink;
   font-size:1.6em;
   transition:10s;
-
 }
 
 h2 {
@@ -132,6 +131,9 @@ figure {
   margin:0 auto;
   padding-top:30px;
 }
+figure img:hover {
+  transform: scale(1.1)
+}
 .angelo {
   background-color: grey;
   display:flex;
@@ -141,6 +143,8 @@ figure {
 figcaption {
   font-size:1.5em;
   width:50%;
+  padding-top:10px;
+  padding-bottom: 10px;
 }
 .quote {
   font-size:1em;
