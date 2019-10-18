@@ -18,4 +18,5 @@
 - To visit the website click on the link (https://skimanikings.github.io/project2/).
 
 ## Project screenshots 
-![](images/projects2.jpg |width=300) 
+![](images/projects2.jpg) 
+ 
