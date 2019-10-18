@@ -18,5 +18,4 @@
 - To visit the website click on the link (https://skimanikings.github.io/project2/).
 
 ## Project screenshots 
-<img src="images/projects2.jpg" width="400px" height = "400px" >
-![project screenshot](images/projects2.jpg) 
+![](images/projects2.jpg |width=300) 
