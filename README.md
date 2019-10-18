@@ -21,7 +21,7 @@
 
 - To visit the website click on the link (https://skimanikings.github.io/project2/).
 
-## Project screenshots
+## Project Screenshot
 
 <img src="./images/project2.jpg" width="400"/> 
 - A screenshot to homepage of this project.
