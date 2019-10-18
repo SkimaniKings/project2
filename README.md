@@ -5,6 +5,10 @@
 - Deployment
 - Project Screenshot
 - Technologies Used
+- Acknowledgement
+- Support and Contacts
+- Licence
+- Authors
 
 # MY PORTFOLIO
 
@@ -28,6 +32,21 @@
     * HTML (Hyper Text Markup Language)
     * CSS (Cascading Styling Sheet)
 
-## 
+## Acknoledgement 
+- I would like to thank the following for their assistance through out this project. 
+    * The Almighty God 
+    * Angelo Kelvin (UI expert)
+    * Paddington Mutuku (front-designer)
+
+## Support & Contacts 
+- Incase of any queries dont hesitate to reach out to me.
+  *  kimanisimon856@gmail.com
+  * 0713813919
+
+ ## Licence
+
+## Author 
+* Designed by **Simon Kimani**
+
 
 
