@@ -20,7 +20,7 @@
 ## Deployment
 
 - To visit the website click on the link (https://skimanikings.github.io/project2/).
-- To view the code on github click on the link (https://github.com/SkimaniKings/project2)
+- To view the code on github click on the link (https://github.com/SkimaniKings/project)
 
 ## Project Screenshot
 
