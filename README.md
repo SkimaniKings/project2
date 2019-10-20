@@ -20,6 +20,7 @@
 ## Deployment
 
 - To visit the website click on the link (https://skimanikings.github.io/project2/).
+- To view the code on github click on the link (https://github.com/SkimaniKings/project2)
 
 ## Project Screenshot
 
@@ -28,22 +29,25 @@
 
 ## Technologies Used
 
-- The creation of the website was based on the following technologies 
-    * HTML (Hyper Text Markup Language)
-    * CSS (Cascading Styling Sheet)
+- The creation of the website was based on the following technologies
+  - HTML (Hyper Text Markup Language)
+  - CSS (Cascading Styling Sheet)
 
-## Acknoledgement 
-- I would like to thank the following for their assistance through out this project. 
-    * The Almighty God 
-    * Angelo Kelvin (UI expert)
-    * Paddington Mutuku (front-designer)
+## Acknoledgement
 
-## Support & Contacts 
+- I would like to thank the following for their assistance through out this project.
+  - The Almighty God
+  - Angelo Kelvin (UI expert)
+  - Paddington Mutuku (front-designer)
+
+## Support & Contacts
+
 - Incase of any queries dont hesitate to reach out to me.
-  *  kimanisimon856@gmail.com
-  * 0713813919
+  - kimanisimon856@gmail.com
+  - 0713813919
 
- ## Licence
+## Licence
+
 - The MIT License (MIT)
 
 Copyright (c) 2019 Simon Kimani.
@@ -55,9 +59,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @SkimaniKings
- 
-## Author 
-* Designed by **Simon Kimani**
 
+## Author
 
-
+- Designed by **Simon Kimani**
